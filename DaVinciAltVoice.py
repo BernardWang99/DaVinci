@@ -37,6 +37,8 @@ GPIO.output(led1_pin, GPIO.LOW)
 GPIO.setup(led2_pin, GPIO.OUT)
 GPIO.output(led2_pin, GPIO.LOW)
 
+
+"this is a test for changes"
 audio_stream = None
 cobra = None
 pa = None
